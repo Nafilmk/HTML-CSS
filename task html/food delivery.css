@@ -1,0 +1,131 @@
+
+    img
+    {
+        width: 80px;
+        height: 50px;
+    }
+    #namebar
+    {
+        background-color: rgb(63, 35, 35);
+        padding: 20px;
+        color: aliceblue;
+    }
+    #img
+    {
+        background-image: url("./istockphoto-1162830693-1024x1024.jpg");
+        min-height: 780px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+
+
+    }
+    #shade
+    {
+        background-color: rgb(70, 39, 39);
+        color: aliceblue;
+        padding: 30px;
+    }
+    #style
+    {
+        margin-top: -50px;
+        margin-left: 50px;"
+    }
+    li{
+
+        display: inline;
+        margin-left: 2%;
+    }
+    #words
+    {
+        text-align: center;
+        padding-top: 250px;
+    }
+    #button
+    {
+        background-color: rgb(251, 21, 21);
+        color: antiquewhite;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    #our_services
+    {
+        text-align: center;
+    }
+    #heading
+    {
+        padding-top: 50px;  
+    }
+    .services
+    {
+        background-color: rgb(219, 216, 222);
+        width: 200px;
+        height: 230px;
+        border: 1px solid rgb(0, 0, 9);
+        box-sizing: border-box;
+        border-radius: 10px;
+        padding-left: 10px;
+        font-size: small;
+        border-spacing: 15px 50px;
+        position: relative;
+        right: 320px;
+        float: right;
+        margin-left: 100px;
+    }
+    #our_clint
+    {
+        background-image: url(./background.jpg);
+        text-align: center;
+        margin-top: 25%;
+    }
+    .clint_img
+    {
+        margin-left: 5%;
+        margin-bottom: 5%;
+        width: 15%;
+        height: 15%;
+    }
+    #contact
+    {
+        background-image: url(./contact\ background\ image.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 2%;
+    }
+    .hed
+    {
+        padding-top: 1%;
+        text-align: center;
+
+    }
+    ::placeholder
+    {
+        font-size: larger;
+        padding-top: 7px;
+    }
+    textarea[id=val]
+    {
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: 1px solid rgb(0, 0, 0);
+        border-radius: 10px;
+        margin-left: 35%;
+    }
+    label
+    {
+        margin-left: 35%;
+    }
+    footer
+    {
+        background-color: black;
+        color: beige;
+        text-align: center;
+        padding: 0.40%;
+        font-size: small;
+    }
+
+    
+    
+    

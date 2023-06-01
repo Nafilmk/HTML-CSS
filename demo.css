@@ -1,0 +1,27 @@
+<style>
+    h1
+    {
+        text-decoration: underline;
+        padding-left: 80px;
+        padding-top: 60px;
+    }
+    p
+    {
+        padding-left: 80px;
+        font-size: larger;
+        line-height: 1.5;
+    }
+    ul
+    {
+        font-size: larger;
+        padding-left: 120px;
+        line-height: 1.5;
+    }
+    #image
+    {
+        background-image: url(/istockphoto-1162830693-1024x1024.jpg);
+        height: 400px;
+        width: 100%;
+    }
+
+</style>
